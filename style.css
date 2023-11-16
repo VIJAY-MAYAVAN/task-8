@@ -1,0 +1,40 @@
+
+         .content{
+            background-color: black;
+            color: black;
+            padding-bottom: 5%;
+            align-items: center;
+            padding-left: 0%;
+            padding-right: 0%;
+        }
+        .title{
+            font-size : 100px;
+            font-weight: bold ;
+            text-align: center;
+            color: white;
+            
+            
+
+
+        }
+        .sub-tittle{
+            text-align: center;
+            font-size: 55px;
+            font-weight: lighter;
+            color: white;
+            padding-bottom: 3%;
+        }
+       .About{
+        background-color: white;
+        padding-left: 5%;
+        padding-top: 10%;
+        padding-right: 2%;
+        padding-bottom: 2%;
+        align-content: center;
+       }
+       .button{
+        align-items: center;
+       }
+       .h3{
+        align-items: center;
+       }
